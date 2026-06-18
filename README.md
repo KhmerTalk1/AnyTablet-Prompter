@@ -1,2 +1,0 @@
-# AnyTablet-Proompter
-Teleprompter
